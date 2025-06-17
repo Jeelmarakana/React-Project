@@ -30,5 +30,3 @@ a.router-link-active {
   text-decoration: underline;
 }
 </style>
-
-//jeel
